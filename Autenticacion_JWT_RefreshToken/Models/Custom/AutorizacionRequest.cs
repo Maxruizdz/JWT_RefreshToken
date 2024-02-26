@@ -2,7 +2,7 @@
 {
     public class AutorizacionRequest
     {
-        public string Nombre_Usuario { get; set; }
-        public string Clave { get; set; }
+        public string? Nombre_Usuario { get; set; }
+        public string? Clave { get; set; }
     }
 }

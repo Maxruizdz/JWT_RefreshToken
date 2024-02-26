@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\bin\Debug\net7.0\Prueba_Array.exe
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\bin\Debug\net7.0\Prueba_Array.deps.json
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\bin\Debug\net7.0\Prueba_Array.runtimeconfig.json
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\bin\Debug\net7.0\Prueba_Array.dll
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\bin\Debug\net7.0\Prueba_Array.pdb
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.AssemblyInfo.cs
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.dll
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\refint\Prueba_Array.dll
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.pdb
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\Prueba_Array.genruntimeconfig.cache
+C:\Users\usuario\Desktop\JsonWebToken-RefreshToken\Prueba_Array\obj\Debug\net7.0\ref\Prueba_Array.dll
