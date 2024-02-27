@@ -7,5 +7,6 @@ namespace Autenticacion_JWT_RefreshToken.Services
     {
 
         Task<AutorizacionResponse> DevolverToken(AutorizacionRequest autorizacion);
+        Task<AutorizacionResponse> DevolverRefreshToken(RefreshTokenRequest refreshTokenRequest, int id_usuario);
     }
 }
