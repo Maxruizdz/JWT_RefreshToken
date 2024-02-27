@@ -11,10 +11,12 @@ namespace Autenticacion_JWT_RefreshToken.Models
     public class AutorizacionResponse
     {
 
-        public string Token { get; set; }
+        public string? Token { get; set; }
 
-        public bool Resultado { get; set; }
+        public string? RefreshToken { get; set; }
 
-        public string Msg { get; set; }
+        public bool? Resultado { get; set; }
+
+        public string? Msg { get; set; }
     }
 }
